@@ -2,10 +2,6 @@
 
 Eventually I will compile a few different projects and coding that I have done to showcase what I have learned over the years. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 Topics and Languages to hit.
 
 ## Java
