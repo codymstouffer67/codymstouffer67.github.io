@@ -6,7 +6,6 @@ Topics and Languages to hit.
 ```markdown
 
 ```
-
 ## Java
 ## Python
 ## C
