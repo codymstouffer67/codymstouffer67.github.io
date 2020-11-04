@@ -3,6 +3,9 @@
 Eventually I will compile a few different projects and coding that I have done to showcase what I have learned over the years. 
 
 Topics and Languages to hit.
+```markdown
+
+```
 
 ## Java
 ## Python
