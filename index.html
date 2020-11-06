@@ -6,7 +6,7 @@ Topics and Languages to hit.
 ```markdown
 
 ```
-## [Java](https://stuffer67.github.io/codymstouffer67.github.io/Java.md)
+## [Java](https://stuffer67.github.io/codymstouffer67.github.io/Java.html)
 ## Python
 ## C
 ## C++
