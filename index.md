@@ -7,7 +7,7 @@ Topics and Languages to hit.
 
 ```
 ## [Java](https://stuffer67.github.io/codymstouffer67.github.io/Java.html)
-## Python
+## [Python](https://stuffer67.github.io/codymstouffer67.github.io/Python.html)
 ## C
 ## C++
 
