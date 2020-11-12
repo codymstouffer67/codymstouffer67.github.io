@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Page
 
-Eventually I will compile a few different projects and coding that I have done to showcase what I have learned over the years. 
+Eventually I will compile a few different projects and code that I have written to showcase what I have learned over the years. 
 
 Topics and Languages to hit.
 ```markdown
